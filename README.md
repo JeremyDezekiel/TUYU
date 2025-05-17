@@ -78,7 +78,7 @@ server/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/tuyu-package-tracking.git
+   git clone https://github.com/jeremydezekiel/tuyu-package-tracking.git
    cd tuyu-package-tracking/client
    ```
 
